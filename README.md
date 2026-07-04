@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kağan Arıbaş
 
-<!--
-**aribaskagan/aribaskagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./gh-header-image-cropped.png" alt="Kagan Aribas - software engineer, agent engineer and founder">
 
-Here are some ideas to get you started:
+I'm a software engineer, agent engineer, and founder specializing in LLM agents, RAG, NLP, and computer vision. I build end-to-end AI products: from data pipelines and model training to retrieval optimization and production-ready applications with clean APIs and UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can explore my work, projects, and writing at <a href="https://kaganaribas.com">kaganaribas.com</a>.
+
+## Find Me Around The Web <a href="https://kaganaribas.com"><img align="right" width="150" height="150" src="./assets/aribaskagan-avatar.gif" alt="Kagan Aribas animated avatar"></a>
+
+- My portfolio and projects at <a href="https://kaganaribas.com">kaganaribas.com</a>
+- Building and sharing code on <a href="https://github.com/aribaskagan">GitHub</a>
+- Connecting professionally on <a href="https://www.linkedin.com/in/aribaskagan/">LinkedIn</a>
+- Reach me at <a href="mailto:aribaskagan@gmail.com">aribaskagan@gmail.com</a>
