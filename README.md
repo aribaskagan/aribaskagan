@@ -1,6 +1,6 @@
 # Hi, I'm Kağan Arıbaş
 
-<img src="./gh-header-image-cropped.png" alt="Kagan Aribas - software engineer, agent engineer and founder">
+<img width="1919" height="625" alt="image" src="https://github.com/user-attachments/assets/d4189860-61a7-455f-9f63-e6da24218517" />
 
 I'm a software engineer, agent engineer, and founder specializing in LLM agents, RAG, NLP, and computer vision. I build end-to-end AI products: from data pipelines and model training to retrieval optimization and production-ready applications with clean APIs and UI.
 
