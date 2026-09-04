@@ -1,4 +1,4 @@
-# Hi, I'm Kağan Arıbaş
+# Hi, I'm Kağan Arıbaş 👋
 
 <img width="1919" height="625" alt="image" src="https://github.com/user-attachments/assets/d4189860-61a7-455f-9f63-e6da24218517" />
 
