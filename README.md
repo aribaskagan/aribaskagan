@@ -9,6 +9,7 @@ You can explore my work, projects, and writing at <a href="https://kaganaribas.c
 ## Find Me Around The Web <a href="https://kaganaribas.com"><img align="right" width="150" height="150" src="./assets/aribaskagan-avatar.gif" alt="Kagan Aribas animated avatar"></a>
 
 - My portfolio and projects at <a href="https://kaganaribas.com">kaganaribas.com</a>
-- Building and sharing code on <a href="https://github.com/aribaskagan">GitHub</a>
+- Reading and publishing research on <a href="https://scholar.google.com/citations?hl=en&user=az-dBW0AAAAJ">Kagan Aribas - Google Scholar</a>
 - Connecting professionally on <a href="https://www.linkedin.com/in/aribaskagan/">LinkedIn</a>
 - Reach me at <a href="mailto:aribaskagan@gmail.com">aribaskagan@gmail.com</a>
+- Building and sharing code on <a href="https://github.com/aribaskagan">GitHub</a>
